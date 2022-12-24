@@ -47,3 +47,22 @@
     background-color: transparent;
     color: #f7d354;
 }
+
+/*Media Query*/
+
+@media (max-width: 765px) {
+    #navbar{
+        justify-content: space-around;
+        align-items: center;
+        margin: 0 auto;
+        width: 95%;
+    }
+
+    #navbar h2{
+        font-size: 1.6rem;
+    }
+
+    #navbar input{
+        padding: .7rem .7rem;
+    }
+}
