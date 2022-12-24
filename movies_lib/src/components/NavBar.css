@@ -55,11 +55,12 @@
         justify-content: space-around;
         align-items: center;
         margin: 0 auto;
-        width: 95%;
+        width: 100%;
     }
 
     #navbar h2{
         font-size: 1.6rem;
+        justify-content: space-between;
     }
 
     #navbar input{

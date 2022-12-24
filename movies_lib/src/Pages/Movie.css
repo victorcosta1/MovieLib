@@ -60,6 +60,10 @@
       padding-top: 1.5rem;
     }
 
+
+    .movie_page .movie_card img{
+     width: 50%;
+    }
     
 
   }
